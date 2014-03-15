@@ -1,4 +1,4 @@
-seniorproject
+Senior Project
 =============
 Using and Enhancing a Static Code Analysis Tool
 

@@ -1,4 +1,4 @@
-ToDo list:
+ToDo list (25.03.2014 -> 04.04.2014):
 
 - upload findbugs code
 - add a dummy checker

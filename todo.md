@@ -1,6 +1,7 @@
 ToDo list:
 
-- Project report.
-- Old project code.
-- New project code.
-- Old project report.
+- upload findbugs code
+- add a dummy checker
+  - give an alert if a method (m) is being called.
+  - give an alert if m1 is called after m2.
+- upload a draft of the report

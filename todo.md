@@ -1,4 +1,4 @@
-ToDo list (13.05.2014 -> 20.05.2014):
+ToDo list (24.05.2014 -> 27.05.2014):
 
 - report
   - FindBugs background, 
